@@ -1,5 +1,5 @@
 # THM_Thousand_Hashes
-This is a python 3 script for solving task #10 of WithYouWithMe's brickathon (https://tryhackme.com/room/thebrickathonpreseasonvi) 
+This is a **python 3** script for solving task #10 of WithYouWithMe's brickathon (https://tryhackme.com/room/thebrickathonpreseasonvi) 
 
 Enter string that needs to be hashed. It will be hashed through five algorithms (in this order SHA512 -> MD5 -> SHA256 -> SHA1 -> SHA244) "n" iterations set by you.
 
